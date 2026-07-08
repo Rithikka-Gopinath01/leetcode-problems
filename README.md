@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,12 +73,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
