@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0263-ugly-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
