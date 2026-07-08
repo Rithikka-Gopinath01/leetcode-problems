@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
