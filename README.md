@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,4 +101,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
