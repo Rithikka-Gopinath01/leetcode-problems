@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
