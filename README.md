@@ -103,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -117,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
