@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0072-edit-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
