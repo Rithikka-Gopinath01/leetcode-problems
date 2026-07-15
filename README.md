@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [1331-rank-transform-of-an-array](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
