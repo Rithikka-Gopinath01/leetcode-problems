@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0657-robot-return-to-origin) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
