@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0087-scramble-string) |
 | [0205-isomorphic-strings](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0657-robot-return-to-origin) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithikka-Gopinath01/leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Union-Find
